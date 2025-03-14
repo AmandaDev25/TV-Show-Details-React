@@ -11,7 +11,7 @@ This project is a web application built with **React** and **Material-UI (MUI)**
 
 ## 📷 Screenshot
 
-![TV Show Details](![alt text](image.png))  
+![alt text](image.png)
 
 ## 📂 Installation and Setup
 
